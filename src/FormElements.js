@@ -1,4 +1,5 @@
 import * as DOM from './DOM.js'
+// DOM.newElement() is a dom element generated. usage: DOM.newElement('type', 'class name (str or arr)')
 
 class Form {
     constructor(name, label, parent, containerClass) {
